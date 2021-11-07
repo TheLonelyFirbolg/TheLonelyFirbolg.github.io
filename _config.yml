@@ -1,8 +1,5 @@
 remote_theme: TheLonelyFirbolg/jekyll-theme-chirpy
 
-site:
-    title: The Lonely Firbolg
-
 baseurl: '/TheLonelyFirbolg'
 
 lang: en
