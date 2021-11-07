@@ -1,7 +1,5 @@
 remote_theme: TheLonelyFirbolg/jekyll-theme-chirpy
 
-baseurl: '/TheLonelyFirbolg'
-
 lang: en
 
 timezone: Europe/London
