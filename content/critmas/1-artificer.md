@@ -1,5 +1,5 @@
 +++
-title = "The 12 Days of Critmas: Artificer"
+title = "The 12 Days of Critmas: The Artificer"
 date = "2021-12-24"
 +++
 
