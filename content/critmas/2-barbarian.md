@@ -12,4 +12,7 @@ This is where natural weapons come in. Longtooth shifters, centaurs, and lizardf
 
 A frenzied berserker makes 3 attacks on their turn. If this berserker is a half-orc with Great Weapon Master and a greataxe, each of these attacks can deal a total of 27 damage (1d12 +3 +10 +2), totalling to 81 already. And one of these will also have the Orcish Fury dice, bringing us to 87. With successive crits, every hit has an extra damage die, dealing 51 each (2d12 +1d12 +3 +10 +2), which totals to 165 with Orcish Fury.
 
-This was a pretty short post, but there really isn’t much stronger for killing things quickly than a half-orc barbarian. A human could pick up another feat by this point, or increase their strength to +4, but these don’t compare to all those bonus d12s sadly. This isn’t so much a special build as barbarians being good at hitting things hard, and it’ll be interesting to see which classes can do better than this. 
+This was a pretty short post, but there really isn’t much stronger for killing things quickly than a half-orc barbarian. A human could pick up another feat by this point, or increase their strength to +4, but these don’t compare to all those bonus d12s sadly. This isn’t so much a special build as barbarians being good at hitting things hard, and it’ll be interesting to see which classes can do better than this.
+***
+
+{{ prev_next(prev="@/critmas/1-artificer.md", next="@/critmas/3-bard.md") }} 
