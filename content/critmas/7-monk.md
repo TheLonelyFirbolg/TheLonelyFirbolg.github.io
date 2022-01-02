@@ -11,4 +11,5 @@ Monks are a complicated class, with a lot of decision points for both build and 
 The way of the four elements monk has some other options. If they learn the water whip elemental discipline, and burn all their ki points on it for their action, they deal 9d10 damage with a save. They can then quicken inflict wounds, totalling 120 damage for their turn, which increases to 150 if inflict wounds crits. As far as I can tell, this is the maximum amount of damage a level 8 monk can do in a single turn. Tomorrow, the insane damage monsters that are paladins. 
 ***
 
-{{ prev_next(prev="@/critmas/6-fighter.md", next="" ) }}
+{{ prev_next(prev="@/critmas/6-fighter.md", next="@/critmas/8-paladin.md" ) }}
+
