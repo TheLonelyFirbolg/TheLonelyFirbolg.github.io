@@ -15,4 +15,4 @@ The best option for most sorcerer subclasses will be to polymorph into a t-rex t
 Of course, your DM might let you roll wild magic again when you cast the second spell, and you might roll 81-82 again. Then you might roll again, for another 81-82. This could burn through all your spell slots, in the order blight, blight, fireball, fireball, fireball, shatter, shatter, shatter, thunderwave, thunderwave, thunderwave, thunderwave, for 408 damage. Or even, inflict wounds in every single one, if you’re boring, for 510, 1020 with crits.
 ***
 
-{{ prev_next(prev="@/critmas/8-paladin.md", next="" ) }}
+{{ prev_next(prev="@/critmas/8-paladin.md", next="@/critmas/10-warlock.md" ) }}

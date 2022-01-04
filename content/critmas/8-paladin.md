@@ -11,5 +11,5 @@ When building paladins for single turn kills, the approach they’ll take is to 
 This leaves us with a variant human oathbreaker paladin, with GWM, metamagic adept, and martial adept. They deal 142 (1d12 +3 +1 +2 +10 +3d8 +1d6 +1d12 +3 +1 +2 +10 +2d8 +4d10) damage on their turn, against a non undead or fiend. If they are fighting evil (maybe they re-break their oath), this increases to 158 damage with the bonus d8s to divine smite. And, with crits on everything, they do 252 damage to most creatures and 284 to their allies.
 ***
 
-{{ prev_next(prev="@/critmas/7-monk.md", next="" ) }}
+{{ prev_next(prev="@/critmas/7-monk.md", next="@/critmas/9-ranger_rogue_sorcerer.md" ) }}
 
