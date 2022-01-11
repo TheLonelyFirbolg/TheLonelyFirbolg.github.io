@@ -11,4 +11,4 @@ The only damage increasing wizard subclasses are bladesinging and war magic, and
 Tomorrow, I’ll take a look at some of the reasons this series is stupid, and maybe offer some balm in the form of some fun and interesting non-damage-whore builds or character ideas.
 ***
 
-{{ prev_next(prev="@/critmas/10-warlock.md", next="@/critmas/12-epiphany" ) }}
+{{ prev_next(prev="@/critmas/10-warlock.md", next="@/critmas/12-epiphany.md" ) }}
