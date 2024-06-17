@@ -4,7 +4,6 @@ date = "2024-06-17"
 +++
 What walks on four legs in the morning, two legs at noon, and three legs in the evening? A LEGO Create 3-in-1 set!
 <!-- more -->
-<!add a map>
 Gangs of skateboarders drawn to the dramatic terrain of crags, canals and forests that crowd unbuilt areas.
 The electric age harnesses the chaos of the landscape and inhabitants, but nature looms close between the borough's buildings.
 Powerful groups vye for influence as Creatown's structural and political stability hang in the balance.
