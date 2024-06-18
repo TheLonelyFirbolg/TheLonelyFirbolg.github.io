@@ -10,4 +10,6 @@ Hi, I'm Phoebe, this is The Lonely Firbolg, and I'll be posting here about ttrpg
 * [Play Reports](https://thelonelyfirbolg.github.io/play_report/)
 * [A Revisionist History of Roke](https://thelonelyfirbolg.github.io/revisionistroke/ )
 * [The 12 Days of Critmas](https://thelonelyfirbolg.github.io/critmas/)
- 
+
+### Contact
+I haven't figured out how to add comments and stuff, so email me at thelonelyfirbolg@gmail.com if you want to get in touch about a post or anything else. I check the inbox about once a week.
