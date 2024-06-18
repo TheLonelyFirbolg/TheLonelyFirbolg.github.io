@@ -9,7 +9,7 @@ The electric age harnesses the chaos of the landscape and inhabitants, but natur
 Powerful groups vye for influence as Creatown's structural and political stability hang in the balance.
 {{ resize_image(path="/misc/images/creatown.jpg", width=0, height=80, op="fit_height") }}
 ## Routes
-{{ resize_image(path="/images/lego31008.PNG", width=0, height=80, op="fit_height") }}
+{{ resize_image(path="/misc/images/lego31008.PNG", width=0, height=80, op="fit_height") }}
 "I actually owned this one.")
 **Thunderwings** *Thunder Wings 31008*
 A powerful transporter on the nasty hills, reassembled into a large glider while the driver's are being changed.
