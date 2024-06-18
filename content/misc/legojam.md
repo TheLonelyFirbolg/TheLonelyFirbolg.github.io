@@ -1,6 +1,6 @@
 +++
 title = "Legojam: Creatown"
-date = "2024-06-17"
+date = "2024-06-18"
 +++
 What walks on four legs in the morning, two legs at noon, and three legs in the evening? A LEGO Create 3-in-1 set!
 <!-- more -->
@@ -35,7 +35,7 @@ Rumours of disappearences on opening nights, which management vehemently deny.
 The raincoat-makers and flower-growers realised a shared common interest, a better use for all that canal water.
 Members are easily distinguished by their yellow macs and pockets full of soil. They sell strange plants and automatic hoods.
 Anyone making requests or enquiries eventually finds themselves directed to *Sprinkle* and *Crackers*, two very senior mock parrots who disagree about everything.
-{{ resize_image(path="/misc/images/lego31120.jpg ", width=0, height=80, op="fit_height") }}
+{{ resize_image(path="/misc/images/lego31120.jpg", width=0, height=80, op="fit_height") }}
 "I love the birds in the bottom right")
 **Goode Lifee Energy Association** *Medieval Castle 31120*
 A wealthy company founded by barons who annoyingly claim the borough is a historic village.
