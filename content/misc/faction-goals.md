@@ -28,7 +28,7 @@ On average, [it takes a dX X rolls to roll X](https://math.stackexchange.com/que
 
 **Number of turns to reach different TN for different starting dice**
 
-| Starting Faction Die | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Starting Die | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | d4 | 4 | 7 | 10 | 14 | 18 | 23 | 28 |
 | d6 | 2 | 3 | 6 | 10 | 14 | 19 | 24 |
