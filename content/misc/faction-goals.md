@@ -26,6 +26,7 @@ I would probably stop marking tallys at 4, as they're only useful to increase a 
 First, lets look at what happens without the tally points on a fail.
 On average, [it takes a dX X rolls to roll X](https://math.stackexchange.com/questions/1119872/on-average-how-many-times-must-i-roll-a-dice-until-i-get-a-6). So 4 turns for a d4 to roll 4 and 12 turns for a d12 to roll 12. So for a target number of 5 and a d4 resource die, we expect the die to increase to a d6 on turn 4. Then we need to roll a 5 or a 6, and we find this is expected to take 3 turns. So in total 7 faction turns.
 **Number of turns to reach different TN for different starting dice**
+
 | Starting Faction Die | TN 4 | TN 5 | TN 6 | TN 7 | TN 8 | TN 9 | TN 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | d4 | 4 | 7 | 10 | 14 | 18 | 23 | 28 |
@@ -35,6 +36,7 @@ On average, [it takes a dX X rolls to roll X](https://math.stackexchange.com/que
 
 These are really quite long, to the point that it cuts out smaller resource dice from being feasible. So lets try this again using the tally points on a fail rule. The maths gets a bit more tricky here. This is my estimate of what we now get.
 **Number of turns to reach different TN for different starting dice**
+
 | Starting Faction Die | TN 4 | TN 5 | TN 6 | TN 7 | TN 8 | TN 9 | TN 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | d4 | 2 | 4 | 5 | 7.7 | 9 | 11.3 | 15 |
