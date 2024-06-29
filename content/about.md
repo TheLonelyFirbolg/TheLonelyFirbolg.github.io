@@ -4,7 +4,7 @@ date = "2021-12-04"
 extra.hide = true
 +++
 
-Hi, I'm Phoebe, this is The Lonely Firbolg, and I'll be posting here about ttrpgs, music, bad tv I like and maybe some other stuff. The main focus will probably be ttrpgs, as I'm normally on the verge of talking way too much about them, and I really enjoy making homebrew, as well as just sharing thoughts and stories.
+Hi, I'm Phoebe, this is The Lonely Firbolg, and I'll be posting here about ttrpgs. I'm mainly experienced with 5e dnd but have spread out into osr-adjacent and storygame systems over the last year. 
 
 ### Series
 * [Play Reports](https://thelonelyfirbolg.github.io/play_report/)
