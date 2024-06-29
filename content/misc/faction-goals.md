@@ -28,8 +28,8 @@ On average, [it takes a dX X rolls to roll X](https://math.stackexchange.com/que
 
 **Number of turns to reach different TN for different starting dice**
 
-| Starting Die | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Starting Faction Die | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | d4 | 4 | 7 | 10 | 14 | 18 | 23 | 28 |
 | d6 | 2 | 3 | 6 | 10 | 14 | 19 | 24 |
 | d8 | 1.6 | 2 | 2.7 | 4 | 8 | 13 | 18 |
@@ -40,7 +40,7 @@ These are really quite long, to the point that it cuts out smaller resource dice
 **Number of turns to reach different TN for different starting dice**
 
 | Starting Faction Die | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | d4 | 2 | 4 | 5 | 7.7 | 9 | 11.3 | 15 |
 | d6 | 1.5 | 2 | 3 | 5.7 | 7 | 9.3 | 13 |
 | d8 | 1.3 | 1.6 | 2 | 2.7 | 4 | 7.3 | 9 |
