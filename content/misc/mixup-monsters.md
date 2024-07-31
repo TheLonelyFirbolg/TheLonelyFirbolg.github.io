@@ -11,12 +11,12 @@ This could be quite a fun way to come up with [puzzle-style monsters](https://ww
 Thinking about this today, I was reminded of another game I loved as a kid, which too could be easily twisted into some rpg form. Growing up, we had two spiral bound books with split pages which created mixed-up animals or fairy tales. Each page was a creature or story, and because they were each cut into 3 or 4, you could rearrange the sections as much as you liked. The creature one had 3 things that were combined each time- a picture, name element and information text. 3 ways to make it funny, inspiring pretty much endless combinations. The [visual element](https://knightattheopera.blogspot.com/2023/01/picture-book-gameplay.html) is particularly evocative, and the words being chosen to work in any configuration without using an obvious formula creates some great combinations.
 
 {{ resize_image(path="/misc/images/remarkable-animals.jpg", width=0, height=300, op="fit_height") }}
-{{ resize_image(path="/misc/images/remarkable-eg1.jpg", width=0, height=400, op="fit_height") }}
-{{ resize_image(path="/misc/images/remarkable-eg2.jpg", width=0, height=400, op="fit_height") }}
-{{ resize_image(path="/misc/images/remarkable-eg3.jpg", width=0, height=400, op="fit_height") }}
+{{ resize_image(path="/misc/images/remarkable-eg1.jpg", width=0, height=300, op="fit_height") }}
+{{ resize_image(path="/misc/images/remarkable-eg2.jpg", width=0, height=300, op="fit_height") }}
+{{ resize_image(path="/misc/images/remarkable-eg3.jpg", width=0, height=300, op="fit_height") }}
 
 {{ resize_image(path="/misc/images/mixed-up-fariytales.jpg", width=0, height=300, op="fit_height") }}
-{{ resize_image(path="/misc/images/fairytale-example.jpg", width=0, height=400, op="fit_height") }}
+{{ resize_image(path="/misc/images/fairytale-example.jpg", width=0, height=300, op="fit_height") }}
 
 For an rpg version, this is basically a carefully made set of tables. If we're making monsters, you could add statblock features to each section, or go for a more diegetic approach, emulating the example of *Fantastic Animals*. You could use the same system to make spells (I've never looked properly at Maze Rats, but I think it might do something like this?), magic items, traps or puzzles. Maybe even dungeons. The main difference of this compared to a set of random tables is seeing the aspects combined- instead of just sparking an idea you're given something fully formed, and can easily notice and change any unappealing aspects. It's obviously a fair bit more work too, requiring some careful writing and a spiral-bound notebook for the full effect, but replicable with 3 sets of cards or something. The increased specificity also limits their use a bit compared to tables. I might write a follow up with some examples- I have an idea for how to use this in my ongoing game, for chimeric creatures used by a sinister underground cult.
 
