@@ -15,7 +15,7 @@ Thinking about this today, I was reminded of another game I loved as a kid, whic
 {{ resize_image(path="/misc/images/remarkable-eg2.jpg", width=0, height=400, op="fit_height") }}
 {{ resize_image(path="/misc/images/remarkable-eg3.jpg", width=0, height=400, op="fit_height") }}
 
-{{ resize_image(path="/misc/images/mixed-up-fairytales.jpg", width=0, height=300, op="fit_height") }}
+{{ resize_image(path="/misc/images/mixed-up-fariytales.jpg", width=0, height=300, op="fit_height") }}
 {{ resize_image(path="/misc/images/fairytale-example.jpg", width=0, height=400, op="fit_height") }}
 
 For an rpg version, this is basically a carefully made set of tables. If we're making monsters, you could add statblock features to each section, or go for a more diegetic approach, emulating the example of *Fantastic Animals*. You could use the same system to make spells (I've never looked properly at Maze Rats, but I think it might do something like this?), magic items, traps or puzzles. Maybe even dungeons. The main difference of this compared to a set of random tables is seeing the aspects combined- instead of just sparking an idea you're given something fully formed, and can easily notice and change any unappealing aspects. It's obviously a fair bit more work too, requiring some careful writing and a spiral-bound notebook for the full effect, but replicable with 3 sets of cards or something. The increased specificity also limits their use a bit compared to tables. I might write a follow up with some examples- I have an idea for how to use this in my ongoing game, for chimeric creatures used by a sinister underground cult.
