@@ -5,7 +5,7 @@ date = "2024-08-01"
 Vulgate Gimgen is planning an invasion. The Synod will take the over-city when it lies undefended, stars and soldiers alike unwatching as the Blood Tide ends. Though their numbers are few, they will be bolstered by strange beasts and amalgams from the Chimera Temple.
 <!-- more -->
 
-For use with 5e D&D. Roll d6 for each section of the chimera. When a section is reduced to 0 HP, abilities tied to that section can no longer be used.
+For use with 5e D&D. Roll d6 for each section of the chimera. When a section is reduced to 0 HP, abilities tied to that section can no longer be used. Sort of like [this](https://www.mindstormpress.com/nested-monster-hit-dice?ref=explorersdesign.com).
 
 | d6 | **Front Section** | **Mid Section** | **Rear Section** |
 | :--- | :--- | :--- | :--- |
