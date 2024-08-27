@@ -1,5 +1,9 @@
++++
+title = "Running a Time Loop"
+date = "2024-08-27"
++++
 My long-running 5e game is finally heading towards a close and I've decided to try and fit in as many of my DM-bucket list things before it reaches the finale. One of these is a time loop, something that's been on and off my mind since I read an Angry GM post about this as a teenager in 2018 or so. Then, a couple of months ago, I began to prepare an adventure site to wrap up one of the major threads in this campaign, and realised it could be an opportunity to tick this type of adventure off. 
-
+<!-- more -->
 ## The setup
 The main design goals for this are:
 - Puzzle-type challenges that reward a second attempt with more information.
