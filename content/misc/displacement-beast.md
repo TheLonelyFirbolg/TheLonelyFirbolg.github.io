@@ -2,12 +2,12 @@
 title = "Displacement Beast"
 date = "2025-02-07"
 +++
-Chemistry is scary.
+Jumping on the elements blogging bandwagon, this was the first chemistry-dnd pun I came up with. 
 <!-- more -->
 
-Jumping on the elements blogging bandwagon, this was the first chemistry-dnd pun I came up with. Displacement reactions are where a more reactive element replaces a less reactive one within a compound (AB+C->A+CB). They're [cool](https://youtu.be/8d6T500BRwY), exactly how I imagined science experiments would be like when I was a kid. We had to learn the reactivity series of metals in school using some mnemonic about zebras, but dnd-type games are full of numbers, so it's much easier to work out whether something is more or less X than something else. There are of course plenty of similar monsters out there (mind flayers perhaps an obvious example) but hopefully this spin brings something a little different.
+Displacement reactions are where a more reactive element replaces a less reactive one within a compound (AB+C->A+CB). They're [cool](https://youtu.be/8d6T500BRwY), exactly how I imagined science experiments would be like when I was a kid. We had to learn the reactivity series of metals in school using some mnemonic about zebras, but dnd-type games are full of numbers, so it's much easier to work out whether something is more or less X than something else. There are of course plenty of similar monsters out there (mind flayers perhaps an obvious example) but hopefully this spin brings something a little different.
 
-{{ resize_image(path="/misc/images/displacement.png", width=0, height=400, op="fit_height") }}
+{{ resize_image(path="/misc/images/displacement.png", width=0, height=250, op="fit_height") }}
 
 **Displacement Beasts** look like something else, behaving strangely and maybe a little more intelligent behind the eyes, but normal enough. Until they open their mouths, revealing too many teeth as well as grasping thin strands that float where their tongues should be.
 
