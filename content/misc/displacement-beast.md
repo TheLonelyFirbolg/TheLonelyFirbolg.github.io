@@ -10,8 +10,8 @@ Jumping on the elements blogging bandwagon, this was the first chemistry-dnd pun
 **Displacement Beasts** look like something else, behaving strangely and maybe a little more intelligent behind the eyes, but normal enough. Until they open their mouths, revealing too many teeth as well as grasping thin strands that float where their tongues should be.
 
 **Stats** as whatever creature they have most recently displaced, with the following changes:
-*Intelligence* noticeably higher than expected for the creature (e.g. wolf as smart as a monkey). If the form has language however, they are not very good at speaking (too many teeth, always trying to hide their mouth).
-*Disposition* depends on whether they are encountered in the proximity of a higher HD creature. If not, roll 2d6
+- *Intelligence* noticeably higher than expected for the creature (e.g. wolf as smart as a monkey). If the form has language however, they are not very good at speaking (too many teeth, always trying to hide their mouth).
+- *Disposition* depends on whether they are encountered in the proximity of a higher HD creature. If not, roll 2d6
 | 2d6 | | |
 | :--- | :--- | :--- |
 | 5-| **Hungry** | Forgot that this form needs to eat. Will attack until hurt or fed. |
@@ -19,8 +19,8 @@ Jumping on the elements blogging bandwagon, this was the first chemistry-dnd pun
 | 9+ | **Curious** | Looking for a more powerful creature to displace. May follow at a reasonable distance, or try and communicate if its form allows. |
 
 If yes, scheming to displace the highest HD creature nearby.
-*Attacks* against higher HD creatures can deal displacement damage instead of normal damage, tracked separately to normal damage. If displacement damage is greater than the target's current health (i.e. sum of normal and displacement damage has reduced the target to 0), floaty tendrils from the displacement beast's mouth swap the spirits of the displacement beast and its target. 
-*Bite* [HD/2]d4 damage.
+- *Attacks* against higher HD creatures can deal displacement damage instead of normal damage, tracked separately to normal damage. If displacement damage is greater than the target's current health (i.e. sum of normal and displacement damage has reduced the target to 0), floaty tendrils from the displacement beast's mouth swap the spirits of the displacement beast and its target. 
+- *Bite* [HD/2]d4 damage.
 
 **Displacement Damage** represents the reaction as a target is replaced by the displacement beast. Describe them gaining attributes of the displacement beast's current form and let this change the target's stats or behaviour during the course of the combat. Being reduced to zero knocks you out for a few minutes, and you awaken in the body of the current form. A few minutes rest away from the displacement beast will remove this damage, but recieving a scar (or equivalent in your system) results in gaining permanently an attribute of the current form. 
 **Tactics** The displacement beast always focuses the single highest HD target. As it is always fighting at a disadvantage, it relies on its intelligence and the element of surprise that it's form grants it. It will use rudimentary traps, environmental features, and other creatures to try and reduce the targets health before swooping in to displace it while it's weak. It is a delicate balance though, as the beast will need enough strength to get away somewhere safer, before its target awakens in its previous body.
