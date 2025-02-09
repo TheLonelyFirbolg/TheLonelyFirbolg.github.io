@@ -2,7 +2,8 @@
 base_url = "https://TheLonelyFirbolg.github.io"
 title = "The Lonely Firbolg"
 theme = "pizza"
-
+generate_feed = true
+feed_filename = "atom.xml"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
