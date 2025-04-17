@@ -1,6 +1,6 @@
 +++
 title = "Who's at home? Domain play with an overloaded random encounter table"
-date = "2025-04-16"
+date = "2025-04-17"
 +++
 Adapting Prismatic Wasteland's [overloaded random encounter table](https://www.prismaticwasteland.com/blog/overloading-the-random-encounter-table) for domain play.
 <!-- more -->
