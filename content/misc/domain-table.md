@@ -7,7 +7,7 @@ Adapting Prismatic Wasteland's [overloaded random encounter table](https://www.p
 
 {{ resize_image(path="/misc/images/home.png",width=600,height=0, op="fit_width") }}
 
-*New York Parcel Dispatch Company, Charles Martin and Ernst Ludwig Kirchner (all CCO).*
+*New York Parcel Dispatch Company, Charles Martin and Ernst Ludwig Kirchner (all CC0).*
 
 Last December I read *The Mirror and the Light*, the last of Hilary Mantel's books on the rise and fall of Thomas Cromwell, advisor to Henry VIII. Whenever Cromwell returns from court or business to his own home of Austin Friars, some combination of the same familiar faces will be there with news or developments. These are mainly courtiers we have seen Cromwell bring up through his ascendance to power- his nephew, diplomats, a protégé of his rival, his servant. The world of Tudor England is richly conjured in these books, and an element of this is in how alive and busy his household is. I wanted to evoke this at my table and an opportunity to do so has recently presented itself.
 
