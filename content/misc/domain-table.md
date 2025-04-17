@@ -15,7 +15,7 @@ In my long-running 5e game, the players have in the last few sessions deposed th
 
 To do so, I have adapted Prismatic Wasteland's excellent overloaded random encounter table to determine who's around when the PCs return to their base of operations and what news they bring. The overloaded encounter table procedure, briefly, is to roll 3d6: the sum determines the encounter, the median determines the reaction/demeanour, and doubles/triples determine distance and surprise. This results in a dense table where these variables are somewhat dependent. I've made two fairly cosmetic changes to the procedure besides context.
 
-**Median role determines how good the news is.** Replace the reaction table with the following:
+**Median roll determines how good the news is.** Replace the reaction table with the following:
 
 |d6|...News|
 | :--- | :--- | 
