@@ -1,6 +1,6 @@
 +++
 title = "Chicken (GLAUGUST)" 
-date = "2025-07-08"
+date = "2025-07-09"
 +++
 [He wields a gun.](https://nothicseye.blogspot.com/2025/07/g-l-u-g-u-s-t-2-0-2-5.html)
 <!-- more -->
