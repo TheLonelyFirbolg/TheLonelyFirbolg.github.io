@@ -4,7 +4,7 @@ date = 2025-07-19
 +++
 I've been playing an open table Mythic Bastionland game with some friends in my area, at the expense of my long running 5e game. With a [jam](https://itch.io/jam/mythic-bastionland-jam) starting up, maybe we can get some use out of my neglected 5e player's handbook to create some new knights.
 <!-- more -->
-*(To skip the waffle: [The Loath Knight](#loath), [The Dance Knight](#dance), [The Jester Knight](#jester) and three [Seers](#seers).)*
+*(To skip to the content: [The Loath Knight](#loath), [The Dance Knight](#dance), [The Jester Knight](#jester) and three [Seers](#seers).)*
 
 A knight in Mythic Bastionland has a poem, some property, a unique ability, a passion, a very cool piece of art and a random table relating to their ability or property. In some cases, these unique abilities can be spell-like, but the implied setting is one where magic is suffused in the natural world, so the feel is very different. Take for example The Gallows Knight, who can speak with and summon scavenger creatures that are only helpful when provided with food. Elements of *Speak with Animals* or *Conjure Animals* are present here, but with natural language and limitations that push the feel of this away from a magic spell and towards a talent or skill learned in a mythic world.
 
