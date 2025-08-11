@@ -7,6 +7,7 @@ Single-level friar for [cloak and sword](https://whosemeasure.blogspot.com/2025/
 {{ resize_image(path="/glogtober24/images/holbein.jpg", width=0, height=500, op="fit_height") }} [Holbein](https://www.clevelandart.org/art/1922.504)
 
 **Mendicant:** You have taken a vow of poverty. You may not hold property beyond the bare essentials and you rely on the charity of strangers to survive. Where there are people, you can always find someone who will take you in for a night. Roll d4 in a village, d6 in a town and d8 in a city, and make a reaction roll for their attitude towards this duty.
+
 | |Abode|
 |:---|:---|
 |1|Glorious hovel|
