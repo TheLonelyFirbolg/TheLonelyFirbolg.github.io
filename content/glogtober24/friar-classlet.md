@@ -49,9 +49,11 @@ While violence is not encouraged, you may brawl over theological matters with th
 |4|*Predetermined afterlife. Human action has no bearing on the next life.* Take a detached disposition. You always save successfully against madness and angels can see you.|
 
 **Theology of signs:** You are obsessed with an interpretive technique encountered in your travels, to make sense of a world overburdened in meaning. Once per day you may use it to answer a single yes or no question. First declare the sign, then after the GM has answered, justify the answer through the declared sign. Those who hold Espirit for you will completely believe any guidance given through this technique, though if you knowingly lead them to their doom with false guidance, you lose faith in the technique and may not use this ability until you discover a different technique and become obsessed with it.
+
 |1d4|Example techniques|
 |:---|:---|
 |1|Numerology|
 |2|Sacred geometry|
 |3|Typology|
 |4|Deductive reasoning|
+
