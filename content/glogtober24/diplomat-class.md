@@ -1,5 +1,5 @@
 +++
-title = "l'Ambassadeur (S&C)"
+title = "l'Ambassadeur (C&S)"
 date = 2025-08-16
 +++
 
