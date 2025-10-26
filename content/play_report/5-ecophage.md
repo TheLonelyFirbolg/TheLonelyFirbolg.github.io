@@ -1,6 +1,6 @@
 +++
 title = 'Play report: Ecophage'
-date = 2025-10-19
+date = 2025-10-26
 +++
 My friends are too busy for a regular campaign right now, so we're doing a winter of one shots. First up is [Ecophage](https://chaotic-goods.itch.io/ecophage), a [zungeon](https://idlecartulary.com/2025/01/01/the-zungeon-manifesto-demystifying-dungeon-creation/) for Vaarn by Chaotic Goods.
 <!-- more -->
