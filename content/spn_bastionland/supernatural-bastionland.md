@@ -2,7 +2,7 @@
 title = 'CW Supernatural Bastionland'
 date = '2025-12-09'
 +++
-Alone in the Labarynth recently posted about [adapting Into The Odd for superheroes](https://aloneinthelabyrinth.blogspot.com/2025/12/in-wake-of-fallen-goddess-mark-of-odd.html). I haven't figured that out, but it did make me realise there's something mythic going on in Supernatural.
+Alone in the Labyrinth recently posted about [adapting Into The Odd for superheroes](https://aloneinthelabyrinth.blogspot.com/2025/12/in-wake-of-fallen-goddess-mark-of-odd.html). I haven't figured that out, but it did make me realise there's something mythic going on in Supernatural.
 <!-- more -->
 {{ resize_image(path="/spn_bastionland/images/1.png", width=0, height=250, op="fit_height") }}
 
